@@ -11,9 +11,10 @@
 
 ### Day 1: October 5, Friday
 
-**Today's Progress**: Automate the Boring Stuff
+**Today's Progress**: Updated files on GitHub, created Azure Devops Pipeline and CI triggered several builds, imported code into ADO Repo.
+Automate the Boring Stuff working through first chapters.
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** CICD in the works. feels good to get started
 
 **Link(s) to work**
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
