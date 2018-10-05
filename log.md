@@ -11,8 +11,8 @@
 
 ### Day 1: October 5, Friday
 
-**Today's Progress**: Updated files on GitHub, created Azure Devops Pipeline and CI triggered several builds, imported code into ADO Repo.
-Automate the Boring Stuff working through first chapters.
+**Today's Progress**: Updated files on GitHub, created Azure Devops Pipeline and CI triggered several builds, imported code into ADO Repo. Setup Test as pipeline. worked through 1.7 assignements https://repl.it/student/classrooms/17929
+
 
 **Thoughts** CICD in the works. feels good to get started
 
