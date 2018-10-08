@@ -12,9 +12,12 @@
 **Link(s) to work:**  https://repl.it/student/classrooms/17929
 
 ### Day 2: October 8, Monday
-**Today's Progress:** Worked 2.1 - 2.5 assignements on repl.it.
+**Today's Progress:** Worked 2.1 - 2.5 assignements on repl.it. Added new Azure Devops Pipeline to Test a Django project on multiple versions of Python. 
 **Thoughts:** fighting the urge to google the answers.
-**Link(s) to work:**  https://repl.it/student/classrooms/17929
+**Link(s) to work:**  
+https://repl.it/student/classrooms/17929
+https://github.com/nunyomo/pipelines-python-django
+https://docs.microsoft.com/azure/devops/pipelines/languages/python
 
 ### Day 3: October 9, Tuesday
 **Today's Progress:** 
