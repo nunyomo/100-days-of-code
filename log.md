@@ -7,13 +7,13 @@
 **Link to work:** [Calculator App](http://www.example.com)
 
 ### Day 1: October 5, Friday
-**Today's Progress:** Updated files on GitHub, created Azure Devops Pipeline and CI triggered several builds, imported code into ADO Repo. Setup Test as pipeline. worked through 1.7 assignements 
-**Thoughts:** CICD in the works. feels good to get started
+**Today's Progress:** Updated files on GitHub, created Azure Devops Pipeline and CI triggered several builds, imported code into ADO Repo. Setup Test as pipeline. worked through 1.7 assignements.
+**Thoughts:** CICD in the works. feels good to get started.
 **Link(s) to work:**  https://repl.it/student/classrooms/17929
 
 ### Day 2: October 8, Monday
-**Today's Progress:** Worked 2.1 - 2.3 assignements on repl.it https://repl.it/student/classrooms/17929
-**Thoughts:** fighting the urge to google the answers
+**Today's Progress:** Worked 2.1 - 2.5 assignements on repl.it.
+**Thoughts:** fighting the urge to google the answers.
 **Link(s) to work:**  https://repl.it/student/classrooms/17929
 
 ### Day 3: October 9, Tuesday
