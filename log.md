@@ -23,3 +23,6 @@ https://docs.microsoft.com/azure/devops/pipelines/languages/python
 **Today's Progress:** Created VSCode workspace after installing python extension. Working in this IDE now. Running through tutorials. Created 1CharacterInput.py to "Create a program that asks the user to enter their name and their age. Print out a message addressed to them that tells them the year that they will turn 100 years old." Created 2OddOrEven.py to "# Ask the user for a number. Depending on whether the number is even or odd, print out an appropriate message to the user."
 **Thoughts:** New workspace is good.
 **Link(s) to work:**  C:\Users\nunyo\Documents\Python Scripts
+https://www.practicepython.org/
+
+
