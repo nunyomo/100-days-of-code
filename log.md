@@ -17,9 +17,10 @@
 **Link(s) to work:**  https://repl.it/student/classrooms/17929
 
 ### Day 2: 12/11/2019, Thursday
-**Today's Progress**: Worked through part 3-5 in https://www.gngrninja.com/powershell-getting-started-series 
+**Today's Progress**: Worked through part 3-5 in https://www.gngrninja.com/powershell-getting-started-series, created hello world for code wars
 **Thoughts**: A little rusty. it is coming back.
 **Link to work**: C:\Users\nunyo\Documents\WindowsPowerShell\PowerShellScripts\Older\Part3.ps1
 C:\Users\nunyo\Documents\WindowsPowerShell\PowerShellScripts\Older\Part4.ps1
 C:\Users\nunyo\Documents\WindowsPowerShell\PowerShellScripts\Older\part5.ps1
+C:\Users\nunyo\Documents\WindowsPowerShell\PowerShellScripts\Older\code wars hello world.ps1
 
